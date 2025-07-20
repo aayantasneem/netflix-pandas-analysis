@@ -67,7 +67,7 @@ cd netflix-pandas-analysis
 # Install dependencies
 pip install pandas numpy
 
----
+```
 
 ## 🎮 How to Use
 
